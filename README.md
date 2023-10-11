@@ -10,4 +10,3 @@ This is a repository for CS5524 taught by Joe Barker, at The Ohio State Universi
 ## 7. Feature Extraction and Interest Point detection
 ## 8. 2D to 3D Projection Calculation and
 ## 9. Template Matching
-## 10. Convolutional Neural Networks
