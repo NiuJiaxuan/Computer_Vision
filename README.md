@@ -7,6 +7,6 @@ This is a repository for CS5524 taught by Joe Barker, at The Ohio State Universi
 ## 4. Similitude Moments
 ## 5. MHI and MEI. Computing Optic Flow using the best image differencing technique.
 ## 6. Motion Tracking
-## 7. Feature Extraction and Interest Point detection
-## 8. 2D to 3D Projection Calculation
-## 9. Template Matching
+## 7. Template Matching
+## 8. FAST Feature Point
+## 9. Homography & Stereo/Disparity
